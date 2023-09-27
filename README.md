@@ -1,2 +1,2 @@
-# JsSiteTemplate
-Mini site template for JS projects.
+# Taco Cat
+A JS Coding Challenge.
