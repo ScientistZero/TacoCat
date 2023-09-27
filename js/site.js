@@ -1,3 +1,24 @@
+//get user input
+function getValue(){
+    //get user string from the page
+    let userString = document.getElementById("userString").value;
+    //check for a palindrome
+
+    //display message to screen
+}
+//check if string is a palindrome
+function checkForPalindrome(){
+
+
+}
+//displat a message to the screen
+function displayMessage(){
+
+
+}
+
+
+
 //Get string from page
 //Controller function
 function getValue(){
